@@ -200,3 +200,5 @@ type smtpClient interface {
 	Quit() error
 	Close() error
 }
+
+//v2
